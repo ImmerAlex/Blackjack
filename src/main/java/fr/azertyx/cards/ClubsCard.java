@@ -1,4 +1,4 @@
-package fr.azertyx.Cards;
+package fr.azertyx.cards;
 
 import fr.azertyx.model.Card;
 import fr.azertyx.model.Suit;
