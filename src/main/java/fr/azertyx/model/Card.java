@@ -10,4 +10,14 @@ public abstract class Card
         this.value = value;
         this.suit = suit;
     }
+
+    public int getValue()
+    {
+        return value;
+    }
+
+    public Suit getSuit()
+    {
+        return suit;
+    }
 }
