@@ -1,0 +1,49 @@
+# Fichiers compilés
+*.class
+*.jar
+*.war
+*.ear
+
+# Répertoires de build
+/target/
+/out/
+/build/
+
+# Logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.swp
+*.swo
+
+# Configuration IDE
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# VS Code
+.vscode/
+
+# OS spécifiques
+.DS_Store
+Thumbs.db
+
+# Maven Wrapper
+.mvn/wrapper/maven-wrapper.jar
+
+# Tests
+/test-output/
